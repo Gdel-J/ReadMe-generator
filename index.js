@@ -88,7 +88,7 @@ function writeToFile(fileName, data) {
         if (error) {
             return console.log(error)
         }
-        console.log('Your README file has been created !!')
+        console.log('Your README file has been created, it is in your folder!!')
     });
 }
 
