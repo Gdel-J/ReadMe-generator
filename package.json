@@ -1,13 +1,21 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"## Description : Easily and quickly create a README file in order to allow the project creator to spend more time working on the project\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gdel-J/ReadMe-generator.git"
+  },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gdel-J/ReadMe-generator/issues"
+  },
+  "homepage": "https://github.com/Gdel-J/ReadMe-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.5"
   }
