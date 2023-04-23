@@ -62,7 +62,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
   ---
-  ![${data.license}](https://img.shields.io/badge/license-${data.license}-yellow)
+  ![${data.license}](https://img.shields.io/badge/license-${data.license}-green)
   ## Description
   ${data.description}
   ## Table of Contents
@@ -92,7 +92,7 @@ function generateMarkdown(data) {
   ## Questions
   If you have any questions about this repository, you might want to open an issue or contact me  at (mailto:${data.email}). Also, you can find more of my work at (https://www.github.com/${data.username}).
   ## Credits
-  This has been made by:${data.credits}.Thank you.
+  This has been made with the collaboration of :${data.credits}.Thank you.
 `;
 }
 
