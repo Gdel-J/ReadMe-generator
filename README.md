@@ -1,9 +1,9 @@
-# <ReadMe-generator>
+## <ReadMe-generator>
 
 ## Badges
 
 MIT License bage
-[MIT LIcense Badge](https://img.shields.io/static/v1?label=MIT&message=License&color=green)
+[MIT License Badge](https://img.shields.io/static/v1?label=MIT&message=License&color=green)
 
 ## Description
 
@@ -15,14 +15,14 @@ This is an application that allows users to easily and quickly create a high qua
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
  
-   [Installation](#installation)
-   [Usage](#usage)
-   [License](#license)
-   [Contributing](#contributing)
-   [Tests](#tests)
-   [Questions](#questions)
-   [Features](#features)
-   [Credits](#credits)
+   -[Installation](#installation)
+   -[Usage](#usage)
+   -[License](#license)
+   -[Contributing](#contributing)
+   -[Tests](#tests)
+   -[Questions](#questions)
+   -[Features](#features)
+   -[Credits](#credits)
 
 ## Installation
 

@@ -4,7 +4,7 @@ const fs = require('fs');
 // If there is no license, returns an empty string
 function renderLicenseBadge(license) {
   if (license) {
-    return `[![${license} license](https://img.shields.io/badge/License-${license}-blue.svg)](${renderLicenseLink(license)})`;
+    return `[![${license} license](https://img.shields.io/badge/License-${license}-green.svg)](${renderLicenseLink(license)})`;
   } else {
     return ``
   }
