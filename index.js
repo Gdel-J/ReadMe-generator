@@ -88,7 +88,7 @@ function writeToFile(fileName, data) {
         if (error) {
             return console.log(error)
         }
-        console.log('Your README file has been created, it is in your folder!!')
+        console.log('Your NewREADME.md  file has been created, it is in your folder!!')
     });
 }
 
@@ -96,7 +96,7 @@ function writeToFile(fileName, data) {
 // Function to initialize app
 function init() {
     inquirer.prompt(questions).then(function (data) {
-        var fileName = 'README.md';
+        var fileName = 'NewREADME.md';
         writeToFile(fileName, data)
     });
 }
