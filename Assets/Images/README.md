@@ -55,10 +55,57 @@ Inquirer: Use the command "npm install inquirer" to get npm's inquirer package
 
 Screenshots  and gif for usage
 
+
+
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+
+DEPENDENCIES:
+
+1-If you don't have the package.json file:
+
+
+2-Please enter this npm init in the command line and answer the questions:
+
+
+3-Then you should have the folder package.json:
+
+
+
+4-If you don't have the package-lock.json file:
+
+
+5-Please enter this npm install --save inquirer@^8.2.4   in the command line :
+
+
+
+6- Then you should have the file package-lock.json:
+
+
+RUN THE APP:
+
+7-Please Run  node index.js in the command line
+
+
+8- Please answser the questions:
+
+
+
+9- Please Follow the steps shown in this video
+
+
+
+10- Then your NewReadMe file will be created
+
+
 
     
     ![alt text](assets/images/screenshot.png)
+
+
+
+
+    ![ReadMe walkthrough video] https://drive.google.com/file/d/1FcGzvfplCdx1QR-9-ydlyXzHSLzSrZ_j/view  <iframe src="https://drive.google.com/file/d/1FcGzvfplCdx1QR-9-ydlyXzHSLzSrZ_j/preview" width="640" height="480"></iframe>
    
 
 ## License
