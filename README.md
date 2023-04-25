@@ -57,55 +57,58 @@ Screenshots  and gif for usage
 
 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-
 DEPENDENCIES:
 
 1-If you don't have the package.json file:
 
+![Screenshot 1](https://user-images.githubusercontent.com/120201085/234316384-88773668-e12d-415e-b788-163dc1c22572.png)
 
 2-Please enter this npm init in the command line and answer the questions:
 
+![Screenshot 2](https://user-images.githubusercontent.com/120201085/234316434-26cf607f-7a43-4c69-b419-f1d1539a9712.png)
 
-3-Then you should have the folder package.json:
+3-Then you should have the folder `package.json`:
 
-
-
-4-If you don't have the package-lock.json file:
-
-
-5-Please enter this npm install --save inquirer@^8.2.4   in the command line :
+![Screenshot 3](https://user-images.githubusercontent.com/120201085/234316555-fbc727f7-f34e-440c-b1be-66f3e44cafef.png)
 
 
+4-If you don't have the `package-lock.json` file:
 
-6- Then you should have the file package-lock.json:
+![Screenshot 4](https://user-images.githubusercontent.com/120201085/234316606-1732a370-66c8-4a2e-b3af-ac5a05c5422a.png)
 
+5-Please enter this `npm install --save inquirer@^8.2.4`   in the command line :
+
+![Screenshot 5](https://user-images.githubusercontent.com/120201085/234316609-279c2d0d-13a9-47cd-b486-78d8736280c2.png)
+
+
+6- Then you should have the file `package-lock.json`:
+
+![Screenshot 6](https://user-images.githubusercontent.com/120201085/234316610-37583961-4bad-4ae5-9c78-734f7064ff13.png)
+
+![Screenshot 7](https://user-images.githubusercontent.com/120201085/234316616-108ea419-a12c-4322-8c48-86c561854d4c.png)
 
 RUN THE APP:
 
-7-Please Run  node index.js in the command line
+7-Please Run  `node index.js` in the command line:
+
+![Screenshot 8](https://user-images.githubusercontent.com/120201085/234316685-961984fc-6d25-430a-8eda-e0d8fa08f952.png)
 
 
 8- Please answser the questions:
 
-
+![Screenshot 9](https://user-images.githubusercontent.com/120201085/234316689-f0ba9fa2-25e3-4cae-9e3c-b0a724d293e4.png)
 
 9- Please Follow the steps shown in this video
 
-
+https://user-images.githubusercontent.com/120201085/234316681-83fcb306-b0d1-4754-9ce4-c12f452667a4.mp4
 
 10- Then your NewReadMe file will be created
 
 
+![Screenshot 10](https://user-images.githubusercontent.com/120201085/234316691-945f24c9-bbc3-47e3-b768-2ee51f02547d.png)
+
 
     
-    ![alt text](assets/images/screenshot.png)
-
-
-
-
-    ![ReadMe walkthrough video] https://drive.google.com/file/d/1FcGzvfplCdx1QR-9-ydlyXzHSLzSrZ_j/view  <iframe src="https://drive.google.com/file/d/1FcGzvfplCdx1QR-9-ydlyXzHSLzSrZ_j/preview" width="640" height="480"></iframe>
    
 
 ## License
