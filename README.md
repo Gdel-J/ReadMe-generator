@@ -64,7 +64,7 @@ DEPENDENCIES:
 
 ![Screenshot 1](https://user-images.githubusercontent.com/120201085/234316384-88773668-e12d-415e-b788-163dc1c22572.png)
 
-2-Please enter this npm init in the command line and answer the questions:
+2-Please enter this `npm init` in the command line then please  answer the questions:
 
 ![Screenshot 2](https://user-images.githubusercontent.com/120201085/234316434-26cf607f-7a43-4c69-b419-f1d1539a9712.png)
 
@@ -87,6 +87,7 @@ DEPENDENCIES:
 ![Screenshot 6](https://user-images.githubusercontent.com/120201085/234316610-37583961-4bad-4ae5-9c78-734f7064ff13.png)
 
 ![Screenshot 7](https://user-images.githubusercontent.com/120201085/234316616-108ea419-a12c-4322-8c48-86c561854d4c.png)
+
 
 RUN THE APP:
 
