@@ -1,9 +1,9 @@
-## <ReadMe-generator>
+# <ReadMe-generator>
 
 ## Badges
 
-MIT License bage
-[MIT License Badge](https://img.shields.io/static/v1?label=MIT&message=License&color=green)
+
+![MIT](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
 
