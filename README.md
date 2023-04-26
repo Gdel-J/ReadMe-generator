@@ -60,7 +60,7 @@ Screenshots  and gif for usage
 
 DEPENDENCIES:
 
-1-If you don't have the package.json file:
+1-If you don't have the `package.json` file:
 
 ![Screenshot 1](https://user-images.githubusercontent.com/120201085/234316384-88773668-e12d-415e-b788-163dc1c22572.png)
 
