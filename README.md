@@ -4,7 +4,7 @@
 
 
 ![MIT](https://img.shields.io/badge/license-MIT-green)
-![Node.js](https://img.shields.io/badge/Node.js-green)
+
 
 ## Description
 
