@@ -1,4 +1,4 @@
-# <ReadMe-generator>
+# ReadMe-generator
 
 ## Badges
 
@@ -15,14 +15,14 @@ This is an application that allows users to easily and quickly create a high qua
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
  
-   -[Installation](#installation)
-   -[Usage](#usage)
-   -[License](#license)
-   -[Contributing](#contributing)
-   -[Tests](#tests)
-   -[Questions](#questions)
-   -[Features](#features)
-   -[Credits](#credits)
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [License](#license)
+  4. [Contributing](#contributing)
+  5. [Tests](#tests)
+  6. [Questions](#questions)
+  7. [Features](#features)
+  8. [Credits](#credits)
 
 ## Installation
 
