@@ -108,8 +108,6 @@ https://user-images.githubusercontent.com/120201085/234321838-536946ff-87f4-49fb
 ![Screenshot 10](https://user-images.githubusercontent.com/120201085/234316691-945f24c9-bbc3-47e3-b768-2ee51f02547d.png)
 
 
-    
-   
 
 ## License
 
@@ -125,7 +123,8 @@ N/A
 
 ## Questions
 
-If you have any questions about this repository, you might want to open an issue or contact me  at (mailto:jessygdelevecchio@gmail.com). Also, you can find more of my work at (https://www.github.com/Gdel-J).
+If you have any questions about this repository, you might want to open an issue or contact me  at (email:`jesdelevecchio@gmail.com`)
+Also you can find more of my work at (`https://www.github.com/Gdel-J`).
 
 ## Features
 

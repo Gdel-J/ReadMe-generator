@@ -28,6 +28,6 @@
   This is a list of the differents features for this project
   undefined
   ## Questions
-  If you have any questions about this repository, you might want to open an issue or contact me  at (mailto:jessygdelevecchio@gmail.com). Also, you can find more of my work at (https://www.github.com/Gdel-J).
+  If you have any questions about this repository, you might want to open an issue or contact me  at (mailto:jesdelevecchio@gmail.com). Also, you can find more of my work at (https://www.github.com/Gdel-J).
   ## Credits
   This has been made with the collaboration of : My teaching team from UCF FSF  bootcamp 2023.Thank you.
